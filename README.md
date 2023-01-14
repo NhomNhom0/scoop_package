@@ -1,5 +1,9 @@
 # scoop_package
 Scoop Package for backup
 
-# Before Using
-run scoop install sudo and then run sudo scoop import <file_name>
+**Before Using**
+run this code before install:
+```
+scoop install sudo
+scoop import <file_name>
+```
