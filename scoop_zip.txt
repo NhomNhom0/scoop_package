@@ -1,0 +1,211 @@
+{
+    "buckets": [
+        {
+            "Name": "extras",
+            "Source": "https://github.com/ScoopInstaller/Extras",
+            "Updated": "2023-01-10T08:58:17+07:00",
+            "Manifests": 1754
+        },
+        {
+            "Name": "games",
+            "Source": "https://github.com/Calinou/scoop-games",
+            "Updated": "2023-01-10T07:35:56+07:00",
+            "Manifests": 251
+        },
+        {
+            "Name": "main",
+            "Source": "https://github.com/ScoopInstaller/Main",
+            "Updated": "2023-01-10T08:58:33+07:00",
+            "Manifests": 1139
+        },
+        {
+            "Name": "nerd-fonts",
+            "Source": "https://github.com/matthewjberger/scoop-nerd-fonts",
+            "Updated": "2023-01-07T16:11:31+07:00",
+            "Manifests": 214
+        },
+        {
+            "Name": "versions",
+            "Source": "https://github.com/ScoopInstaller/Versions",
+            "Updated": "2023-01-10T09:02:45+07:00",
+            "Manifests": 406
+        }
+    ],
+    "apps": [
+        {
+            "Source": "main",
+            "Info": "",
+            "Name": "7zip",
+            "Updated": "2022-11-01T22:17:59.8304834+07:00",
+            "Version": "22.01"
+        },
+        {
+            "Source": "main",
+            "Info": "",
+            "Name": "adb",
+            "Updated": "2022-12-20T14:48:09.6110287+07:00",
+            "Version": "33.0.3"
+        },
+        {
+            "Source": "main",
+            "Info": "",
+            "Name": "dark",
+            "Updated": "2022-10-10T20:03:39.7327698+07:00",
+            "Version": "3.11.2"
+        },
+        {
+            "Source": "extras",
+            "Info": "",
+            "Name": "discord",
+            "Updated": "2022-12-10T14:57:42.5744618+07:00",
+            "Version": "1.0.9007-14"
+        },
+        {
+            "Source": "games",
+            "Info": "",
+            "Name": "epic-games-launcher",
+            "Updated": "2022-12-27T18:49:43.8016612+07:00",
+            "Version": "14.2.1"
+        },
+        {
+            "Source": "main",
+            "Info": "",
+            "Name": "gcc",
+            "Updated": "2022-12-09T15:05:46.695313+07:00",
+            "Version": "11.2.0"
+        },
+        {
+            "Source": "main",
+            "Info": "",
+            "Name": "git",
+            "Updated": "2022-11-01T22:19:43.8964498+07:00",
+            "Version": "2.38.0.windows.1"
+        },
+        {
+            "Source": "main",
+            "Info": "",
+            "Name": "make",
+            "Updated": "2022-12-07T23:47:54.5675912+07:00",
+            "Version": "4.4"
+        },
+        {
+            "Source": "main",
+            "Info": "",
+            "Name": "neovim",
+            "Updated": "2022-12-27T17:40:16.2934488+07:00",
+            "Version": "0.8.1"
+        },
+        {
+            "Source": "main",
+            "Info": "",
+            "Name": "nodejs",
+            "Updated": "2022-12-07T17:03:48.4845485+07:00",
+            "Version": "19.2.0"
+        },
+        {
+            "Source": "extras",
+            "Info": "",
+            "Name": "notion",
+            "Updated": "2022-12-27T19:17:13.0809407+07:00",
+            "Version": "2.0.39"
+        },
+        {
+            "Source": "main",
+            "Info": "",
+            "Name": "oh-my-posh",
+            "Updated": "2022-12-03T17:47:20.3286652+07:00",
+            "Version": "12.23.0"
+        },
+        {
+            "Source": "main",
+            "Info": "",
+            "Name": "pwsh",
+            "Updated": "2022-12-16T21:42:21.5442173+07:00",
+            "Version": "7.3.1"
+        },
+        {
+            "Source": "main",
+            "Info": "",
+            "Name": "python",
+            "Updated": "2022-10-10T20:04:58.5127185+07:00",
+            "Version": "3.10.7"
+        },
+        {
+            "Source": "extras",
+            "Info": "",
+            "Name": "sharpkeys",
+            "Updated": "2022-12-04T16:01:16.1468274+07:00",
+            "Version": "3.9.4"
+        },
+        {
+            "Source": "extras",
+            "Info": "",
+            "Name": "spotify",
+            "Updated": "2023-01-10T09:48:41.3905375+07:00",
+            "Version": "1.2.0.1165.gabf054ab"
+        },
+        {
+            "Source": "versions",
+            "Info": "",
+            "Name": "steam",
+            "Updated": "2022-12-09T22:57:46.3841602+07:00",
+            "Version": "nightly-20221209"
+        },
+        {
+            "Source": "main",
+            "Info": "",
+            "Name": "sudo",
+            "Updated": "2022-12-07T23:40:15.8079437+07:00",
+            "Version": "0.2020.01.26"
+        },
+        {
+            "Source": "extras",
+            "Info": "",
+            "Name": "thonny",
+            "Updated": "2022-12-29T16:02:34.1824984+07:00",
+            "Version": "4.0.1"
+        },
+        {
+            "Source": "extras",
+            "Info": "",
+            "Name": "vcredist2022",
+            "Updated": "2022-12-09T14:00:38.7426192+07:00",
+            "Version": "14.34.31931.0"
+        },
+        {
+            "Source": "main",
+            "Info": "",
+            "Name": "vim",
+            "Updated": "2022-11-05T19:00:27.7469547+07:00",
+            "Version": "9.0"
+        },
+        {
+            "Source": "main",
+            "Info": "",
+            "Name": "vimtutor",
+            "Updated": "2022-12-04T15:33:16.6538782+07:00",
+            "Version": "0.2018.07.25"
+        },
+        {
+            "Source": "main",
+            "Info": "",
+            "Name": "winfetch",
+            "Updated": "2022-12-03T23:13:44.1117291+07:00",
+            "Version": "2.4.1"
+        },
+        {
+            "Source": "nerd-fonts",
+            "Info": "Global install",
+            "Name": "cousine-NF-Mono",
+            "Updated": "2022-12-07T23:40:19.3842639+07:00",
+            "Version": "2.2.2"
+        },
+        {
+            "Source": "nerd-fonts",
+            "Info": "Global install",
+            "Name": "Hack-NF",
+            "Updated": "2022-12-03T16:59:29.8132341+07:00",
+            "Version": "2.2.2"
+        }
+    ]
+}
