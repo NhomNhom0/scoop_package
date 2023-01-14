@@ -5,5 +5,5 @@ Scoop Package for backup
 run this code before install:
 ```
 scoop install sudo
-scoop import <file_name>
+sudo scoop import <file_name>
 ```
