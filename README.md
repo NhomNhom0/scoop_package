@@ -1,7 +1,7 @@
 # scoop_package
 Scoop Package for backup
 
-#Before Using
+# Before Using
 install scoop:
 ```
 Set-ExecutionPolicy RemoteSigned -Scope CurrentUser # Optional: Needed to run a remote script the first time
