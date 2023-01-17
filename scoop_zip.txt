@@ -71,13 +71,6 @@
             "Updated": "2023-01-13T23:58:56.6297947+07:00"
         },
         {
-            "Name": "firefox",
-            "Source": "extras",
-            "Info": "",
-            "Version": "106.0.1",
-            "Updated": "2022-10-26T18:55:53.4766125+07:00"
-        },
-        {
             "Name": "gcc",
             "Source": "main",
             "Info": "",
